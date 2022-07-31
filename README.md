@@ -6,6 +6,8 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yvonnefanf&layout=compact&theme=radical)](https://github.com/Yvonnefanf/github-readme-stats)-->
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yvonnefanf&theme=radical)](https://git.io/streak-stats)
+
 - 🌱 github-profile-trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Yvonnefanf&theme=onedark&column=7)](https://github.com/Yvonnefanf/github-profile-trophy)
