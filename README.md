@@ -1,4 +1,4 @@
-### Hi there 👋 I am Zhang yifan
+### Hi there 👋 I am Zhang Yifan
 
 - 🌱  github-readme-stats 
 
