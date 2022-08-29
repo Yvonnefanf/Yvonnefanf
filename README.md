@@ -3,12 +3,13 @@
 - 🌱  github-readme-stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yvonnefanf&count_private=true&theme=radical&show_icons=true)](https://github.com/Yvonnefanf/github-readme-stats)
-
+<div style="display:flex;">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yvonnefanf&theme=radical)](https://git.io/streak-stats)
 
 - 🌱 github-profile-trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Yvonnefanf&theme=onedark&column=7)](https://github.com/Yvonnefanf/github-profile-trophy)
+</div>
 
 <!--
 **Yvonnefanf/Yvonnefanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
