@@ -1,4 +1,4 @@
 ### Hi there 👋 I am Yifan ZHANG 😊
 
-RA in NUS 
+RA and incoming phD student in NUS 
 
