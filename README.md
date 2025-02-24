@@ -3,8 +3,9 @@
 PhD student in NUS 
 
 ## Skill Set
-- Frontend Development: TypeScript, JavaScript, Angular, Vue, React
+- Web: TypeScript, JavaScript, Angular, Vue, React, Flask
 - Mobile & Native Development: Swift, WeChat Mini Programs
+- Desktop Application: Tkinter, PyQt / PySide
 - 3D & Graphics: Three.js, Cesium, PlayCanvas, Regl
 - GIS: OpenLayers,Deck.gl
 - Backend & General Development: Python, Java
