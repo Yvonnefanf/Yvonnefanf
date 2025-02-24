@@ -9,4 +9,5 @@ PhD student in NUS
 - 3D & Graphics: Three.js, Cesium, PlayCanvas, Regl
 - GIS: OpenLayers,Deck.gl
 - Backend & General Development: Python, Java
+- Machine Learning: PyTorch, TensorFlow / Keras
 
