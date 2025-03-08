@@ -6,8 +6,7 @@ PhD student in NUS
 - Web: TypeScript, JavaScript, Angular, Vue, React
 - Mobile & Native Development: Swift, WeChat Mini Programs
 - Desktop Application: Tkinter, PyQt / PySide
-- 3D & Graphics: Three.js, Cesium, PlayCanvas, Regl
-- GIS: OpenLayers,Deck.gl
+- 3D & Graphics: Three.js, Cesium
 - Backend & General Development: Python, Java
 - Machine Learning: PyTorch, TensorFlow / Keras
 
