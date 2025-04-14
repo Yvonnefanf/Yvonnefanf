@@ -21,9 +21,9 @@
 
 ## 📊 GitHub Activity
 
-<div align="center" style="background-color: #FFF0F5; padding: 20px; border-radius: 15px; margin: 20px 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yvonnefanf&theme=default&hide_border=true&background=FFF0F5" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yvonnefanf&layout=compact&theme=default&hide_border=true&bg_color=FFF0F5" alt="Top Languages" />
+<div align="center" style="background-color: #FFF0F5; padding: 20px; border-radius: 15px; margin: 20px 0; display: flex; justify-content: center; gap: 10px;">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Yvonnefanf&theme=default&hide_border=true&background=FFF0F5&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1&sideLabels=FFB6C1" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yvonnefanf&layout=compact&theme=default&hide_border=true&bg_color=FFF0F5&title_color=FFB6C1&text_color=FFB6C1" alt="Top Languages" />
 </div>
 
 ## 📫 Connect With Me
